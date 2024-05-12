@@ -1,5 +1,7 @@
 # link-utils
 
+A set of tools to manage links (urls) stored in files.
+
 ## Conversions
 
 This tool only supports *CSV (comma separated)* to *Firefox's HTML Bookmark format* conversion.
